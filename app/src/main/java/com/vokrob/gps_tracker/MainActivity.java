@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity implements LocListenerInterf
     private int total_distance;
     private int rest_distance;
     private ProgressBar pb;
+    private int gaybar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
